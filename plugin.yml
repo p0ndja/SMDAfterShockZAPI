@@ -1,0 +1,13 @@
+name: SMDAfterShockZAPI
+main: pluginMain
+version: 19.19-29.12.2559-11
+authors: [palapon2545@gmail.com, SMilyDay_xD]
+description: [Only available for AfterShockZ's Server]
+commands:
+  systemupdate:
+    description: system
+  systeminstalled:
+    description: system
+  countdown:
+    description: system
+    
